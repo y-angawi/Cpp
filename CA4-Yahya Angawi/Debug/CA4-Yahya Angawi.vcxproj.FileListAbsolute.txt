@@ -1,0 +1,2 @@
+D:\C++\CA4\CA4-Yahya Angawi\Debug\CA4-Yahya Angawi.exe
+D:\C++\CA4\CA4-Yahya Angawi\Debug\CA4-Yahya Angawi.pdb
